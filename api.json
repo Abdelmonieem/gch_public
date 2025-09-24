@@ -1,0 +1,17 @@
+{
+  "showConfetti": true,
+  "enableMusic": false,
+  "welcomeMessage": "Welcome to our app 🎉",
+  "maintenanceMode": false,
+  "themeColor": "blue",
+  "enableChat": true,
+  "chatWelcomeText": "Hi, how can we help you?",
+  "showAds": false,
+  "adsMessage": "Buy Premium for ad-free experience!",
+  "darkMode": true,
+  "showTutorial": false,
+  "tutorialMessage": "Swipe left to continue",
+  "enableLogin": true,
+  "loginMessage": "Please log in to continue",
+  "apiVersion": "v1.0.3"
+}
