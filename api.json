@@ -1,7 +1,7 @@
 {
   "showConfetti": false,
   "enableMusic": true,
-  "welcomeMessage": "Welcome to our app 🎉",
+  "welcomeMessage": "Welcome to our app 🎉🎉",
   "maintenanceMode": false,
   "audioUrl": "https://abdelmonieem.github.io/gch_public/videoplayback%20(1)%20(1)%20(mp3cut.net).mp3",
   "enableChat": true,
@@ -15,6 +15,7 @@
   "loginMessage": "Please log in to continue",
   "apiVersion": "v1.0.3"
 }
+
 
 
 
