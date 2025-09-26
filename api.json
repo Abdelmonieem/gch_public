@@ -1,5 +1,5 @@
 {
-  "showConfetti": false,
+  "showConfetti": true,
   "enableMusic": true,
   "welcomeMessage": "Welcome to our app 🎉🎉",
   "maintenanceMode": false,
@@ -15,6 +15,7 @@
   "loginMessage": "Please log in to continue",
   "apiVersion": "v1.0.3"
 }
+
 
 
 
